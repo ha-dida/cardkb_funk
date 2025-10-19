@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "v3": "*",
-        "i2c-tastatur": "github:jasperp92/CardKB-i2cKeyboard#b6f682ce7975e26abe1aa84b062ba3fc44e7ae2f"
+        "i2c-tastatur": "github:jasperp92/CardKB-i2cKeyboard#b6f682ce7975e26abe1aa84b062ba3fc44e7ae2f",
+        "funk": "*"
     },
     "files": [
         "main.blocks",

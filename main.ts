@@ -8,6 +8,5 @@ basic.forever(function () {
     input2 = String.fromCharCode(CardKB.readCharcode())
     if (input2 != "") {
         basic.showString(input2)
-        radio.sendString(input2)
     }
 })
