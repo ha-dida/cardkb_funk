@@ -1,0 +1,25 @@
+{
+    "name": "CardKB_Funk",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "v3": "*",
+        "i2c-tastatur": "github:jasperp92/CardKB-i2cKeyboard#b6f682ce7975e26abe1aa84b062ba3fc44e7ae2f"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "7.1.31",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
